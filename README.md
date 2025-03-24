@@ -15,6 +15,10 @@ RoastVision adalah aplikasi AI yang dapat memberikan kritik humoris ("roast") pa
 - Google Gemini API
 - PIL (Python Imaging Library)
 - Requests
+  
+## Hasil
+
+![image](https://github.com/user-attachments/assets/43023962-047a-481e-9932-46298d284f03)
 
 ## Cara Menjalankan
 
