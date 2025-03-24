@@ -26,7 +26,7 @@ RoastVision adalah aplikasi AI yang dapat memberikan kritik humoris ("roast") pa
 2. Clone repositori ini
 3. Install dependensi:
    ```
-   pip install streamlit google-generativeai python-dotenv Pillow requests
+   pip install -r requirements.txt
    ```
 4. Siapkan file `.env` dengan API key Google Gemini:
    ```
