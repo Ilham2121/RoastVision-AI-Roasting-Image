@@ -38,13 +38,6 @@ RoastVision adalah aplikasi AI yang dapat memberikan kritik humoris ("roast") pa
    ```
 
 
-### Streamlit
-
-1. Buat akun di [Streamlit Cloud](https://streamlit.io/cloud)
-2. Hubungkan repositori GitHub Anda
-3. Tambahkan API key ke secrets di dashboard Streamlit
-
-
 ## Disclaimer
 
 Aplikasi ini dibuat untuk hiburan dan tidak bermaksud menyinggung siapapun. Gunakan dengan bijak ya. 
